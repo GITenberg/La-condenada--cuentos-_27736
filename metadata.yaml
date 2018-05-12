@@ -1,0 +1,35 @@
+_repo: La-condenada--cuentos-_27736
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Blasco Ibanez, Vicente
+    - Ibáñez, Vicente Blasco
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
+description: ''
+gutenberg_issued: '2009-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27736'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, Spanish'
+- !lcsh 'Spanish fiction'
+tableOfContents: La condenada -- Primavera triste -- El parásito del tren -- Golpe
+  doble -- En el mar -- ¡Hombre al agua! -- Un silbido -- Lobos de mar -- Un funcionario
+  -- El ogro -- La barca abandonada -- El maniquí -- La paella del «roder» -- En la
+  boca del horno -- El milagro de San Antonio -- Venganza moruna -- La pared
+title: La condenada (cuentos)
+url: http://www.gutenberg.org/ebooks/27736
